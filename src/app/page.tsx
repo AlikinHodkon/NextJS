@@ -1,7 +1,8 @@
 export default function Home() {
   return (
-    <div>
-      <h2>Welcome to the Game</h2>
+    <div className="text-center">
+      <h2 className="text-2xl">Welcome to the Game</h2>
+      <p>Fuck you, Igor!!!</p>
     </div>
   );
 }
